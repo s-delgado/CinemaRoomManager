@@ -1,0 +1,23 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    import java.util.Arrays;
+
+    public class Main {
+
+        public static void main(String[] args) {
+
+            char[] characters;
+
+            System.out.println(Arrays.toString(characters));
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2707#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Thu, 15 Apr 2021 16:52:27 UTC
+record: -1

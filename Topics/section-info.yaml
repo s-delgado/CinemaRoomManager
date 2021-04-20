@@ -1,0 +1,25 @@
+content:
+- Overview of the basic program
+- Printing data
+- Types and variables
+- Comments
+- Scanning the input
+- Integer types and operations
+- Relational operators
+- Conditional statement
+- The for-loop
+- The while and do-while loops
+- Branching statements
+- Calling a method
+- Array
+- Iterating over arrays
+- Multidimensional array
+- Switch statement
+- Declaring a method
+- Functional decomposition
+- Arrays as parameters
+- Errors in programs
+- What is an exception
+- NPE
+- Array exceptions
+- String
